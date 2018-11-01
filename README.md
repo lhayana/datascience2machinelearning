@@ -60,4 +60,10 @@
 	- Importing files
 	- Creating maps
 	- Choropleths maps
+- Lesson 13
+	- Case study: NYC open data (education)
+	- Data cleaning walkthrough
+	- Combining data
+	- Groupby
+	- Merge (inner, outer, right, left)
 
