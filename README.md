@@ -66,4 +66,15 @@
 	- Combining data
 	- Groupby
 	- Merge (inner, outer, right, left)
+- Lesson 14
+	- Sampling
+		- Population and sampling
+		- Sampling error
+		- Simple random sampling (SRS)
+		- Stratified sampling
+		- Clustering sampling
+	- Variables in statistics
+		- Quantitative and qualitative variables
+		- Scale of measurements (nominal, ordinal, interval, ratio)
+
 
