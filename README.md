@@ -76,5 +76,14 @@
 	- Variables in statistics
 		- Quantitative and qualitative variables
 		- Scale of measurements (nominal, ordinal, interval, ratio)
-
+- Lesson 15
+	- Frequency Distributions
+		- Sorting frequency distribution tables
+		- Percentiles and percentiles ranks
+		- Information loss
+	- Visualizing Distributions
+		- Bar, Pie, Histograms plots
+		- Skewed distributions
+		- Symmetrical Distributions
+	- Comparing Frequency Distribution
 
