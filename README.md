@@ -86,4 +86,11 @@
 		- Skewed distributions
 		- Symmetrical Distributions
 	- Comparing Frequency Distribution
+- Lesson 16
+	- A brief history of AI
+	- Key definitions
+	- Types of Machine Learning
+	- Machine Learning Workflow
+	- Main challenges
+	- End-to-end ML project
 
