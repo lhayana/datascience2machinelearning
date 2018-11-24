@@ -93,4 +93,14 @@
 	- Machine Learning Workflow
 	- Main challenges
 	- End-to-end ML project
+- Lesson 17
+	- Univariate KNN
+		- Euclidean distance for univariate
+		- Function to make predictions
+		- Error metrics
+	- Multivariate KNN
+		- Normalize columns
+		- Euclidean distance for multivariate
+	- Hyperparameter optimization
+	- Cross-Validation
 
