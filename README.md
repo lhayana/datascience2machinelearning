@@ -103,4 +103,11 @@
 		- Euclidean distance for multivariate
 	- Hyperparameter optimization
 	- Cross-Validation
+- Lesson 18
+	- Linear Regression (one variable)
+	- Cost function
+	- Gradient descent
+	- Refresher on linear algebra concepts
+	- Linear Regresion (multiple variables)
+
 
