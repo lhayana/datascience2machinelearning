@@ -109,5 +109,12 @@
 	- Gradient descent
 	- Refresher on linear algebra concepts
 	- Linear Regresion (multiple variables)
-
+- Lesson 19
+	- Classification
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization
+	- Hands on Scikit
 
