@@ -117,4 +117,8 @@
 	- Multiclass Classification
 	- Regularization
 	- Hands on Scikit
+- Lesson 20
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
 
