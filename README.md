@@ -130,4 +130,12 @@
 	- Information gain
 	- Applying Decision Trees
 	- Overfitting problem
+- Lesson 22
+	- Ensembles (Random Forest)
+	- Combining predictions
+	- Why Ensembling works
+	- Introduction variation with bagging and random features
+	- Reducing overfitting using Random Forest
+	- Case study: US Census, predicting bike rentals
+
 
