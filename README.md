@@ -137,5 +137,11 @@
 	- Introduction variation with bagging and random features
 	- Reducing overfitting using Random Forest
 	- Case study: US Census, predicting bike rentals
+- Lesson 23
+	- Getting Started with Kaggle
+	- Feature Preparation, Selection and Engineering
+	- Model Selection and Tuning
+	- Creating a Kaggle Workflow
+
 
 
