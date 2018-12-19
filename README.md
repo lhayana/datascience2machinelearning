@@ -142,6 +142,12 @@
 	- Feature Preparation, Selection and Engineering
 	- Model Selection and Tuning
 	- Creating a Kaggle Workflow
+- Lesson 24
+	- Representing neural network
+	- Nonlinear activation functions
+	- Hidden Layers
+	- Case study: build a handwritten digit classifier
+
 
 
 
