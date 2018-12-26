@@ -146,7 +146,14 @@
 	- Representing neural network
 	- Nonlinear activation functions
 	- Hidden Layers
-	- Case study: build a handwritten digit classifier
+	- Case study: build a handwritten digit classified
+- Lessson 25
+	- Mathematical building blocks of neural networks
+	- Getting started with neural networks
+	- Classifying movie reviews: a binary classification example
+	- Classifying newswires: a multiclass classification problem
+	- Predicting houses price: a regression problem
+
 
 
 
