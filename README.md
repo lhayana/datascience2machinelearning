@@ -143,17 +143,27 @@
 	- Model Selection and Tuning
 	- Creating a Kaggle Workflow
 - Lesson 24
+	- Deep Learning Fundamentals I
 	- Representing neural network
 	- Nonlinear activation functions
 	- Hidden Layers
 	- Case study: build a handwritten digit classified
 - Lessson 25
+	- Deep Learning Fundamentals II
 	- Mathematical building blocks of neural networks
 	- Getting started with neural networks
 	- Classifying movie reviews: a binary classification example
 	- Classifying newswires: a multiclass classification problem
 	- Predicting houses price: a regression problem
-
+- Lesson 26
+	- Deep Learning Fundamentals III
+	- Formal evaluation procedures for machine learning models
+	- Preparing data for deep learning
+	- Feature engineering
+	- Tackling overfitting
+	-The universal workflow for approaching machine learning problems
+	- Case study
+	
 
 
 
