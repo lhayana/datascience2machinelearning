@@ -162,7 +162,7 @@
 	- Feature engineering
 	- Tackling overfitting
 	-The universal workflow for approaching machine learning problems
-	- Case study
+	- Case study: titanic
 	
 
 
